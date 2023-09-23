@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bluevene&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BlueVene.BlueVene&"  />
 </div>
 
 ###
